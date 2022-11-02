@@ -1,4 +1,4 @@
-# Datagovs
+# DataGovs
 [DataGovs](www.DataGovs.com) is the fastest way to connect data standards and policies to manage APIs for better data quality. DataGovs is built on Govs our governance system as a unified API. Use this repo to quickstart connecting data on DataGovs.
 
 ## DataGovs Service
