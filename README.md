@@ -9,7 +9,9 @@ Language Learning Models (LLMs) are emerging as a transformative technology, not
 
 This repository leverages Open Data to provide example use cases 
 
-This library aims to assist in the development of those types of applications. Common examples of these applications include:
+This library aims to assist in the development of those types of applications. 
+
+Common examples of these applications include:
 
 ### ❓ Question/Answering on Open Census Data
 Dataset: Census 2021 
