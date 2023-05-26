@@ -1,15 +1,48 @@
-# DataGovs
-[DataGovs](www.DataGovs.com) is the fastest way to connect data standards and policies to manage APIs for better data quality. We built Govs as a governance system to make managing public, private, and partner APIs easier. Use this repo to quickstart connecting data on DataGovs.
+## 🏛️ Open DataGovs
+⚡Bring insights to non-technical users with Text-To-SQL Apps using LLMs and Open Data ⚡
 
-## DataGovs Service
-<img width="1204" alt="Screen Shot 2022-11-02 at 10 03 59 AM" src="https://user-images.githubusercontent.com/10216510/199521615-b065a035-2c0d-4b0a-866c-354b72349513.png">
+Looking to connect your DB to DataGovs. Check out API Docs. 
+
+Private Data: As you move DataGovs with private data, we help teams with onboarding and a dedicated Discord Channel. Fill out the form. 
+### 🤔 What is this?
+Language Learning Models (LLMs) are emerging as a transformative technology, not just enabling developers to build apps but also helping democratize data analysis. Leveraging LLMs to run analysis on public and private data for business use cases is hard for many reasons: quality of data, lack of standards, and compliance in regulated markets.
+
+This repository leverages Open Data to provide example use cases 
+
+This library aims to assist in the development of those types of applications. Common examples of these applications include:
+
+### ❓ Question/Answering on Open Census Data
+Dataset: Census 2021 
+End-to-end Example:(Open.DataGovs.com)
+
+### 📖 Documentation
+Please see here for full documentation on:
+How-To examples (Demo)
+
+#### Reference (full API docs)
+- 🚀 What can this help with?
+There are six main areas that LangChain is designed to help with. These are, in increasing order of complexity:
+
+- 🔗Quality & Compliance:
+LLM(s) vary in quality based on the data and can give bad data outputs we mitigate this by transforming the data to meet standards and notifying users of issues with their datasets. 
+
+📃 LLMs and Prompts:
+This includes prompt management, prompt optimization, a generic interface for all LLMs, and common utilities for working with LLMs.
+
+### 💁 Contributing
+
+As an Open Data project, we showcase numerous public datasets that can be brought in to run your own examples. 
+
+- Data Standards - Help us add new standards for reporting quality and compliant data for various industry use cases. 
+- Data Visualization - Provide feedback on new methods of visualization of data for end-users leveraging the Open version of DataGovs.
+- Data Sources - Public data is great, but some users might want to run private data that they own and can leverage for internal use cases. Contributors support public data.
+
+### 💰 Commercialization
+
+We’re a small, self-funded, fully-distributed team in the U.S. and we do not solicit users leveraging the public data tooling. We use OSS for those tools. 
+
+We get paid through customers who we support with private data use cases upon request and only on requests for membership. That membership is used to fuel continued community efforts.
 
 
-### Documentation
 
-* To be added 
-
-### Legal
-
-Here are our [Terms of Use, Privacy Notice, CCPA Notice, Cookie Notice, and Copyright Dispute Policy](https://datagovs.com/website-terms-of-service/)
 
