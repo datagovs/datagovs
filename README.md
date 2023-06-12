@@ -5,7 +5,7 @@ Looking to connect your DB to DataGovs. Check out API Docs.
 
 Private Data: As you move DataGovs with private data, we help teams with onboarding and a dedicated Discord Channel. Fill out the form. 
 ### 🤔 What is this?
-Language Learning Models (LLMs) are emerging as a transformative technology, not just enabling developers to build apps but also helping democratize data analysis. Leveraging LLMs to run analysis on public and private data for business is hard for many reasons: quality of data, lack of standards, and compliance in regulated markets.
+Language Learning Models (LLMs) are emerging as a transformative technology, not just enabling developers to build apps but also helping democratize data analysis. Leveraging LLMs to run analysis on public and private data for business is work for many reasons: quality of data, lack of standards, access control and compliance are just a few.
 
 This repository leverages Open Data to provide example use cases 
 
