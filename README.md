@@ -21,16 +21,6 @@ End-to-end Example:(Open.DataGovs.com)
 Please see here for full documentation on:
 How-To examples (Demo)
 
-#### Reference (full API docs)
-- 🚀 What can this help with?
-There are six main areas that LangChain is designed to help with. These are, in increasing order of complexity:
-
-- 🔗Quality & Compliance:
-LLM(s) vary in quality based on the data and can give bad data outputs we mitigate this by transforming the data to meet standards and notifying users of issues with their datasets. 
-
-📃 LLMs and Prompts:
-This includes prompt management, prompt optimization, a generic interface for all LLMs, and common utilities for working with LLMs.
-
 ### 💁 Contributing
 
 As an Open Data project, we showcase numerous public datasets that can be brought in to run your own examples. 
