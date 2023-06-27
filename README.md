@@ -43,7 +43,6 @@ As an Open Data project, we showcase numerous public datasets that can be brough
 
 We’re a small, self-funded, fully-distributed team in the U.S. and we do not solicit users leveraging the public data tooling. We use OSS for those tools. 
 
-We get paid through customers who we support with private data use cases upon request and only on requests for membership. That membership is used to fuel continued community efforts.
 
 
 
